@@ -1,2 +1,2 @@
 # weather-app
-Simple weather API
+Simple weather API using HTML, CSS, JavaScript
